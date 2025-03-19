@@ -1,3 +1,8 @@
+WEBSITE LINK: https://huggingface.co/spaces/Dhanu9945/frontend_news_sentiment
+
+HUGGING FACE STREAMLIT LINK:https://huggingface.co/spaces/Dhanu9945/frontend_news_sentiment
+HUGGINGFACE FACE FASTAPI LINK:https://huggingface.co/spaces/Dhanu9945/fastapi-backend
+
 # News Summarization and Text-to-Speech Application
 
 This web application extracts news articles about a specified company, performs sentiment analysis, conducts comparative analysis, and generates a text-to-speech output in Hindi. The tool allows users to input a company name and receive a structured sentiment report along with an audio output.
